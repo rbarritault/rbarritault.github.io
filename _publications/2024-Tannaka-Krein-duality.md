@@ -5,7 +5,6 @@ permalink: /publication/2024-Tannaka-Krein-duality
 date: 2024-03-29
 venue: Preprint
 paperurl: 'https://arxiv.org/pdf/2403.20077.pdf'
-citation: 'Barritault, Rémi. (2024). Tannaka-Krein duality for Roelcke-precompact non-archimedean Polish groups.'
 ---
 
 
