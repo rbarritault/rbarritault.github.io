@@ -5,9 +5,15 @@
 
 Academic Pages is a Github Pages template for academic websites.
 
-# Some tips for Markdown
-Personal reminder: See this [page](https://github.com/academicpages/academicpages.github.io/blob/master/_pages/markdown.md). 
-
+# Personal reminder
+- Some tips for Markdown: See this [page](https://github.com/academicpages/academicpages.github.io/blob/master/_pages/markdown.md). 
+- Hompage : [pages/about](_pages/about.md)
+- CV : [pages/CV](_pages/cv.md)
+- Publications :
+  * Intro text: file [pages/publications](_pages/publications.md)
+  * New publis: add file in folder [publications](_publications/)
+- Same for Talks and Teaching
+  
 # Getting Started
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
