@@ -173,5 +173,5 @@ This allows you to denote <var>variables</var>.
 
 {% include base_path %}
 {% for post in site.pages %}
-{% include archive-single.html %}
+  {% include archive-single.html %}
 {% endfor %}
