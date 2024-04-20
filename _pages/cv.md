@@ -41,6 +41,11 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+Teaching
+======
+* **2023-2024** 64h teaching of mathematics to undergraduate students at Université Lyon 1
+* **2020-2021** Test preparation for student to prepare for "Grandes écoles" entrance exam
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -53,11 +58,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
