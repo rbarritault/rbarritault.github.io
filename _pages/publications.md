@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-  <div class="wordwrap">Here is the list of my articles</a>.</div>
+<div class="wordwrap">Here is the list of my articles.</div>
   
 {% include base_path %}
 
