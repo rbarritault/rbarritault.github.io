@@ -1,10 +1,12 @@
 
-# Academic Pages
+# Personal Website using "Academic Pages" template
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
 Academic Pages is a Github Pages template for academic websites.
 
+# Some tips for Markdown
+Personal reminder: See this [page](https://github.com/academicpages/academicpages.github.io/blob/master/_pages/markdown.md). 
 
 # Getting Started
 
