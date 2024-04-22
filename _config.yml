@@ -26,13 +26,13 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Mathematics"
   location         : "Lyon, France"
-  employer         : "Institut Camille Jordan, Université Claude Bernard Lyon 1"
+  employer         : "Université Claude Bernard Lyon 1"
   uri              : # URL
   email            : "barritault@math.univ-lyon1.fr" 
 
   # Academic websites
   arxiv            : "https://arxiv.org/search/?query=Barritault%2C+R%C3%A9mi&searchtype=author" # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=uuuuuuuuuu"
+  googlescholar    : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0007-3101-0227"
   pubmed           : # URL
