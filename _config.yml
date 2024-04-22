@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Mathematics"
   location         : "Lyon, France"
-  employer         : "Université Lyon 1"
+  employer         : "Institut Camille Jordan, Université Claude Bernard Lyon 1"
   uri              : # URL
   email            : "barritault@math.univ-lyon1.fr" 
 
@@ -35,7 +35,7 @@ author:
   googlescholar    : # "https://scholar.google.com/citations?user=uuuuuuuuuu"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0007-3101-0227"
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   HAL              : "https://hal.science/search/index/?q=*&authIdPerson_i=1369242"
 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
