@@ -12,4 +12,4 @@ Welcome to my web page. I am a PhD student in __Mathematics__ under the supervis
 # Field of Research
 
 
-My interests lie at the intersection of topological group theory, geometry and model theory. At the moment, I am looking at the representation theory of automorphism groups of very homogeneous structures (e.g. (\\((\mathbb{Q},<))\\ or regular trees). 
+My interests lie at the intersection of topological group theory, geometry and model theory. At the moment, I am looking at the representation theory of automorphism groups of very homogeneous structures (e.g. (\((\mathbb{Q},<)\) or regular trees). 
