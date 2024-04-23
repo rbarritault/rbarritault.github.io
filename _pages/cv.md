@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D student in Mathematics, Université Claude Bernard Lyon 1, 2023 - present
+  * Supervised by [Todor Tsankov](http://www.math.jussieu.fr/~todor/) and [Christian Rosendal](https://sites.google.com/view/christian-rosendal)
+* M.S. in Mathematics, Ecole Normale Supérieure de Lyon, 2022
+* B.S. in Mathematics, Ecole Normale Supérieure de Lyon, 2020
 
-Work experience
+Research Internships
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2023: **Dynamics and geometry of locally Roelcke-precompact Polish groups**, predoctoral year
+  * Institut Camille Jordan, Université Claude Bernard Lyon 1
+  * Supervisor: [Todor Tsankov](http://www.math.jussieu.fr/~todor/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023: **Model theory of groups**, pre-doctoral year
+  * Münster University WWU, Germany
+  * Supervisor:  [Katrin Tent](http://ivv5hpp.uni-muenster.de/u/tent/)
+ 
+* Summer 2022: **Structure and Geometry of Polish groups**, second year of M.S.
+  * University of Maryland, USA
+  * Supervisor:  [Christian Rosendal](https://sites.google.com/view/christian-rosendal)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: **Continuous Logic and Model Theory**, second year of M.S.
+  * Institut Camille Jordan, Université Claude Bernard Lyon 1
+  * Supervisor: [Todor Tsankov](http://www.math.jussieu.fr/~todor/)
+
+* Summer 2020: **General Model theory**, third year of B.S.
+  * Institut Camille Jordan, Université Claude Bernard Lyon 1
+  * Supervisor: [Itaï Ben Yaacov](http://math.univ-lyon1.fr/~begnac/)
+
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Teaching
-======
-* **2023-2024** 64h teaching of mathematics to undergraduate students at Université Lyon 1
-* **2020-2021** Test preparation for student to prepare for "Grandes écoles" entrance exam
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
