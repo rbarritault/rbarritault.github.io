@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+### Education
 
 * Ph.D student in Mathematics, Université Claude Bernard Lyon 1, 2023 - present
   * Supervised by [Todor Tsankov](http://www.math.jussieu.fr/~todor/) and [Christian Rosendal](https://sites.google.com/view/christian-rosendal)
 * M.S. in Mathematics, Ecole Normale Supérieure de Lyon, 2022
 * B.S. in Mathematics, Ecole Normale Supérieure de Lyon, 2020
 
-## Research Internships
+### Research Internships
 
 * Summer 2023: **Dynamics and geometry of locally Roelcke-precompact Polish groups**, predoctoral year
   * Institut Camille Jordan, Université Claude Bernard Lyon 1
