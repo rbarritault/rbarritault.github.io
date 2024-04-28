@@ -281,38 +281,6 @@
    Comments
    ========================================================================== */
 
-.page__comments {
-  @include full();
-}
-
-.page__comments-title {
-  margin-top: 2rem;
-  margin-bottom: 10px;
-  padding-top: 2rem;
-  font-size: $type-size-6;
-  border-top: 1px solid $border-color;
-  text-transform: uppercase;
-}
-
-.page__comments-form {
-  padding: 1em;
-  background: $lighter-gray;
-  transition: $global-transition;
-
-  &.disabled {
-    input,
-    button,
-    textarea,
-    label {
-      pointer-events: none;
-      cursor: not-allowed;
-      filter: alpha(opacity=65);
-      box-shadow: none;
-      opacity: 0.65;
-    }
-  }
-}
-
 .comment {
   @include clearfix();
   margin: 1em 0;
