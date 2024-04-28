@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Rémi Barritault"
 title_separator          : "-"
 name                     : &name "Rémi Barritault"
-description              : &description "PhD Student in Mathematics"
+description              : &description "Rémi Barritault is a PhD Student in Mathematics at Université Claude Bernard Lyon 1 in Lyon, France. He studies topological group theory, geometry and model theory."
 url                      : https://rbarritault.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rbarritault/rbarritault.github.io"
