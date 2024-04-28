@@ -8,7 +8,7 @@ author_profile: true
 Here is a list of talks I have given to seminars or work-groups:
 
 * **Le théorème de Glimm**, ENS de Lyon, March 2024
-  * a two-session lecture in collaboration with Basile Morando for the work-group "Groupes de Type I".
+  * A two-session lecture in collaboration with Basile Morando for the work-group "Groupes de Type I".
     
 ## Upcoming talks
 
