@@ -39,3 +39,12 @@ redirect_from:
   * Supervisor: [Itaï Ben Yaacov](http://math.univ-lyon1.fr/~begnac/)
 
   
+### Teaching
+
+* 2023-2024: Université Lyon 1, Lyon, France
+  * Teaching in **Mathematics**, undergraduate students, *64h*
+* 2020-2021: Lycée La Martinière Monplaisir, Lyon, France
+  * Oral exam preparation in **Mathematics** for "Grandes écoles" entrance exams, *48h*
+
+
+
