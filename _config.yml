@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Rémi Barritault"
 title_separator          : "-"
 name                     : &name "Rémi Barritault"
-description              : &description ""
+description              : &description "PhD Student in Mathematic"
 url                      : https://rbarritault.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rbarritault/rbarritault.github.io"
