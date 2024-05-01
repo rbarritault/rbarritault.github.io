@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks given to seminars and work-groups"
 permalink: /talks/
 author_profile: true
 ---
 
-Here is a list of talks I have given to seminars or work-groups:
+## Previous talks
 
 * **Le théorème de Glimm**, ENS de Lyon, March 2024
   * A two-session lecture in collaboration with Basile Morando for the work-group "Groupes de Type I".
