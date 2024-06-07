@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **Tannaka-Krein duality for Roelcke-precompact non-archimedean Polish groups**, 2024. *Preprint* <br/>
+* **Tannaka-Krein duality for Roelcke-precompact non-archimedean Polish groups**, 2024. *Submitted* <br/>
 <small>[ <a href="#/" onclick="visib('tannaka2024')">Abstract</a> | <a href="https://arxiv.org/pdf/2403.20077">ArXiv</a> | <a href="https://hal.science/hal-04525798">HAL</a>] </small>
 
 <div id="tannaka2024" style="display: none; text-align: justify; line-height: 1.2" ><small>
