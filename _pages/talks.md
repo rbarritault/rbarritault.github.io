@@ -7,7 +7,7 @@ author_profile: true
 
 ## Previous talks
 
-
+* **Tannaka-Krein duality for Roelcke-precompact non-Archimedean polish groups**,  Logic seminar at the University of Maryland at College Park, September 2024
 
 * **Tannaka-Krein duality for Roelcke-precompact non-Archimedean polish groups**, Séminaire Groupes et Actions, at [Institut de Mathématique d’Orsay](https://www.imo.universite-paris-saclay.fr/fr/), Université Paris Saclay, July 2024
 
