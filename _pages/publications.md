@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-* **Unitary Representations of the Isometry Groups of Urysohn Spaces**, 2024. *Submitted* <br/>
+* **Unitary Representations of the Isometry Groups of Urysohn Spaces**, joint work with [Colin Jahel](https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/colin-jahel) and [Matthieu Joseph](https://www.imo.universite-paris-saclay.fr/~matthieu.joseph/index.html), 2024. *Submitted* <br/>
 <small>[ <a href="#/" onclick="visib('urysohn2024')">Abstract</a> | <a href="https://arxiv.org/pdf/2410.01725">ArXiv</a> | <a href="">HAL</a>] </small>
 
 <div id="urysohn2024" style="display: none; text-align: justify; line-height: 1.2" ><small>
