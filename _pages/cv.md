@@ -13,6 +13,7 @@ redirect_from:
 
 * Ph.D student in Mathematics, Université Claude Bernard Lyon 1, 2023 - present
   * Supervised by [Todor Tsankov](http://www.math.jussieu.fr/~todor/) and [Christian Rosendal](https://sites.google.com/view/christian-rosendal)
+  * Currently visiting Christian Rosendal at the University of Maryland (September 2024 - June 2025).
 * M.S. in Mathematics, Ecole Normale Supérieure de Lyon, 2022
 * B.S. in Mathematics, Ecole Normale Supérieure de Lyon, 2020
 
