@@ -41,11 +41,12 @@ redirect_from:
 
   
 ### Teaching
-
-* 2023-2024: Université Lyon 1, Lyon, France
-  * Teaching in **Mathematics**, undergraduate students, *64h*
-* 2020-2021: Lycée La Martinière Monplaisir, Lyon, France
-  * Oral exam preparation in **Mathematics** for "Grandes écoles" entrance exams, *48h*
+* Fall Semester 2024: [University of Maryland at College Park](https://www-math.umd.edu/), USA,
+    * Tutoring an undergraduate student in the **Directed Reading Program** on Dynamical Systems.
+* 2023-2024: Université Lyon 1, Lyon, France.
+  * Teaching in **Mathematics**, undergraduate students, *64h*.
+* 2020-2021: Lycée La Martinière Monplaisir, Lyon, France.
+  * Oral exam preparation in **Mathematics** for "Grandes écoles" entrance exams, *48h*.
 
 
 
