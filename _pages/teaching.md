@@ -8,7 +8,7 @@ author_profile: true
 
 
 ## Septembre 2024 - Décembre 2024, University of Maryland at College Park, USA,
-  * Tuteur d'un étudiant de troisième année, équivalent Licence 3, dans le cadre du "[Directed Reading Program](http://drp.math.umd.edu/)".
+  * Tuteur d'un étudiant de troisième année, équivalent Licence 3, dans le cadre du "[Directed Reading Program](http://drp.math.umd.edu/)". Sujet: Introduction aux systèmes dynamiques.
 
 ## 2023 - 2024, Université Claude Bernard Lyon 1
 
