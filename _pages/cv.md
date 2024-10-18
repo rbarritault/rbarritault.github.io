@@ -11,19 +11,20 @@ redirect_from:
 
 ### Education
 
-* Ph.D student in Mathematics, Université Claude Bernard Lyon 1, 2023 - present
-  * Supervised by [Todor Tsankov](http://www.math.jussieu.fr/~todor/) and [Christian Rosendal](https://sites.google.com/view/christian-rosendal)
+* Ph.D student in Mathematics, Université Claude Bernard Lyon 1, 2023 - present.
+  * Supervised by [Todor Tsankov](http://www.math.jussieu.fr/~todor/) and [Christian Rosendal](https://sites.google.com/view/christian-rosendal).
+  * Title: Dynamics and Geometry of locally Roelcke-precompact Polish groups.
   * Currently visiting Christian Rosendal at the University of Maryland (September 2024 - June 2025).
-* M.S. in Mathematics, Ecole Normale Supérieure de Lyon, 2022
-* B.S. in Mathematics, Ecole Normale Supérieure de Lyon, 2020
+* M.S. in Mathematics, Ecole Normale Supérieure de Lyon, 2022.
+* B.S. in Mathematics, Ecole Normale Supérieure de Lyon, 2020.
 
 ### Research Internships
 
-* Summer 2023: **Dynamics and geometry of locally Roelcke-precompact Polish groups**, predoctoral year
+* Summer 2023: **Dynamics and geometry of locally Roelcke-precompact Polish groups**, predoctoral year.
   * Institut Camille Jordan, Université Claude Bernard Lyon 1
   * Supervisor: [Todor Tsankov](http://www.math.jussieu.fr/~todor/)
 
-* Fall 2023: **Model theory of groups**, pre-doctoral year
+* Fall 2023: **Model theory of groups**, pre-doctoral year.
   * Münster University WWU, Germany
   * Supervisor:  [Katrin Tent](http://ivv5hpp.uni-muenster.de/u/tent/)
  
@@ -41,7 +42,7 @@ redirect_from:
 
   
 ### Teaching
-* Fall Semester 2024: [University of Maryland at College Park](https://www-math.umd.edu/), USA,
+* Fall Semester 2024: [University of Maryland at College Park](https://www-math.umd.edu/), USA.
     * Tutoring an undergraduate student in the **Directed Reading Program** on Dynamical Systems.
 * 2023-2024: Université Lyon 1, Lyon, France.
   * Teaching in **Mathematics**, undergraduate students, *64h*.
