@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+
+
+## Septembre 2024 - Décembre 2024, University of Maryland at College Park, USA,
+  * Tuteur d'un étudiant de troisième année, équivalent Licence 3, dans le cadre du "[Directed Reading Program](http://drp.math.umd.edu/)".
+
 ## 2023 - 2024, Université Claude Bernard Lyon 1
 
   * TD de **Mathématiques 2**, niveau L1 [[MAT1051L]](https://offre-de-formations.univ-lyon1.fr/%2Fue-24747%2Fmathematique-2.html)
