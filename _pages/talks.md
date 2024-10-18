@@ -18,7 +18,7 @@ author_profile: true
 
 
 * **Le théorème de Glimm**
-  * A two-sessions lecture in collaboration with Basile Morando for the work-group "Groupes de Type I" at the ENS de Lyon, March 2024.
+  * A two-sessions lecture in collaboration with Basile Morando for the work-group "Groupes de Type I" at [UMPA](https://www.umpa.ens-lyon.fr/), ENS de Lyon, March 2024.
  
 
 
