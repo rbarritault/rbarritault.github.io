@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-PhD student in __Mathematics__ under the supervision of [Todor Tsankov](https://math.univ-lyon1.fr/~tsankov/) ([ICJ](https://www.math.univ-lyon1.fr/), Université Claude Bernard Lyon 1) and [Christian Rosendal](https://sites.google.com/view/christian-rosendal) ([University of Maryland](https://www-math.umd.edu/)).
+PhD student in __Mathematics__ under the supervision of [Todor Tsankov](https://math.univ-lyon1.fr/~tsankov/) ([ICJ](https://www.math.univ-lyon1.fr/), Université Claude Bernard Lyon 1) and [Christian Rosendal](https://sites.google.com/view/christian-rosendal) ([University of Maryland at College Park](https://www-math.umd.edu/)).
 
 ## Field of Research
 
