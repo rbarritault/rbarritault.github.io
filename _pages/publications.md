@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 
-* **Unitary Representations of the Isometry Groups of Urysohn Spaces**, joint work with [Colin Jahel](https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/colin-jahel) and [Matthieu Joseph](https://www.imo.universite-paris-saclay.fr/~matthieu.joseph/index.html), 2024. *Submitted* <br/>
-<small>[ <a href="#/" onclick="visib('urysohn2024')">Abstract</a> | <a href="https://arxiv.org/pdf/2410.01725">ArXiv</a> | <a href="">HAL</a>] </small>
+* **Unitary Representations of the Isometry Groups of Urysohn Spaces**, with [Colin Jahel](https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/colin-jahel) and [Matthieu Joseph](https://www.imo.universite-paris-saclay.fr/~matthieu.joseph/index.html), 2024. *Submitted* <br/>
+<small>[ <a href="#/" onclick="visib('urysohn2024')">Abstract</a> | <a href="https://arxiv.org/pdf/2410.01725">ArXiv</a> | <a href="https://hal.science/hal-04744565v1">HAL</a>] </small>
 
 <div id="urysohn2024" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We obtain a complete classification of the continuous unitary representations of the isometry group of the rational Urysohn space \(\mathbb{QU}\). As a consequence, we show that Isom(\(\mathbb{QU}\)) has property (T). We also derive several ergodic theoretic consequences from this classification: (i) every probability measure-preserving action of Isom(\(\mathbb{QU}\)) is either essentially free or essentially transitive, (ii) every ergodic Isom(\(\mathbb{QU}\))-invariant probability measure on \([0,1]^{\mathbb{QU}}\) is a product measure. We obtain the same results for isometry groups of variations of  \(\mathbb{QU}\), such as the rational Urysohn sphere  \(\mathbb{QU}_1\), the integral Urysohn space  \(\mathbb{ZU}\), etc.
