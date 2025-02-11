@@ -7,6 +7,9 @@ author_profile: true
 
 
 
+* **Irreducible representations of infinite-dimensional Burger-Mozes groups**,
+   * A three-sessions lecture for the work-group "Groups and Sets" at the [University of Maryland at College Park](https://www-math.umd.edu/), February 2024.
+
 * **Dissociation of unitary representations and the Urysohn spaces**,
    * A three-sessions lecture for the work-group "Groups and Sets" at the [University of Maryland at College Park](https://www-math.umd.edu/), October 2024.
 
