@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **On dissociated infinite permutation groups**, with [Colin Jahel](https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/colin-jahel) and [Matthieu Joseph](https://www.imo.universite-paris-saclay.fr/~matthieu.joseph/index.html), 2024. *Submitted* <br/>
+* **On dissociated infinite permutation groups**, with [Colin Jahel](https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/colin-jahel) and [Matthieu Joseph](https://www.imo.universite-paris-saclay.fr/~matthieu.joseph/index.html), 2025. *Preprint* <br/>
 <small>[ <a href="#/" onclick="visib('dissociation2025')">Abstract</a> | <a href="https://arxiv.org/pdf/2504.14057">ArXiv</a> | <a href="https://hal.science/hal-04744565v1">HAL</a>] </small>
 
 <div id="dissociation2025" style="display: none; text-align: justify; line-height: 1.2" ><small>
