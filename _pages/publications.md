@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * **On dissociated infinite permutation groups**, with [Colin Jahel](https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/colin-jahel) and [Matthieu Joseph](https://www.imo.universite-paris-saclay.fr/~matthieu.joseph/index.html), 2025. *Preprint* <br/>
-<small>[ <a href="#/" onclick="visib('dissociation2025')">Abstract</a> | <a href="https://arxiv.org/pdf/2504.14057">ArXiv</a> | <a href="https://hal.science/hal-04744565v1">HAL</a>] </small>
+<small>[ <a href="#/" onclick="visib('dissociation2025')">Abstract</a> | <a href="https://arxiv.org/pdf/2504.14057">ArXiv</a> | <a href="https://hal.science/hal-05047341v1">HAL</a>] </small>
 
 <div id="dissociation2025" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The goal of this paper is threefold. First, we describe the notion of dissociation for closed subgroups of the group of permutations on a countably infinite set and explain its numerous consequences on unitary representations (classification of unitary representations, Property (T), Howe-Moore property, etc.) and on ergodic actions (non-existence of type III non-singular actions, Stabilizer rigidity, etc.). Some of the results presented here are new, others were proved in different contexts. Second, we introduce a new method to prove dissociation. It is based on a reinforcement of the classical notion of strong amalgamation, where we allow to amalgamate over countable sets. Third, we apply this technique of amalgamation to provide new examples of dissociated closed permutation groups, including isometry groups of some metrically homogeneous graphs, automorphism groups of diversities, and more.
