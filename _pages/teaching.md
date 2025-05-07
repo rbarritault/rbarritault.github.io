@@ -8,7 +8,10 @@ author_profile: true
 
 
 ## Sep. - Déc. 2024, University of Maryland at College Park, USA.
-  * Tuteur d'un étudiant de troisième année, équivalent Licence 3, dans le cadre du "[Directed Reading Program](http://drp.math.umd.edu/)". Sujet: Introduction aux systèmes dynamiques.
+  * Tuteur de deux étudiant de troisième année, équivalent Licence 3, dans le cadre du "[Directed Reading Program](http://drp.math.umd.edu/)".
+    * Semestre d'automne: Introduction aux systèmes dynamiques,
+    * Semesste de printemps: Le Théorème de Krein-Milman.
+    
 
 ## 2023 - 2024, Université Claude Bernard Lyon 1, Lyon.
 
