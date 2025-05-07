@@ -18,10 +18,15 @@ redirect_from:
 * M.S. in Mathematics, Ecole Normale Supérieure de Lyon, 2022.
 * B.S. in Mathematics, Ecole Normale Supérieure de Lyon, 2020.
 
-### Research Internships
+### Research Internships and visits
+
+* Sep. 2024 - June 2025: **Second year of doctoral studies**,
+  * University of Maryland, College Park, USA
+  * Visiting [Christian Rosendal](https://sites.google.com/view/christian-rosendal)
+
 
 * Summer 2023: **Dynamics and geometry of locally Roelcke-precompact Polish groups**, predoctoral year.
-  * Institut Camille Jordan, Université Claude Bernard Lyon 1
+  * Institut Camille Jordan, Université Claude Bernard Lyon 1, France
   * Supervisor: [Todor Tsankov](http://www.math.jussieu.fr/~todor/)
 
 * Fall 2023: **Model theory of groups**, pre-doctoral year.
@@ -42,8 +47,10 @@ redirect_from:
 
   
 ### Teaching
+* Spring Semester 2024: [University of Maryland at College Park](https://www-math.umd.edu/), USA.
+    * Tutoring of an undergraduate student in the **Directed Reading Program**. Subject: The Krein-Milman Theorem.
 * Fall Semester 2024: [University of Maryland at College Park](https://www-math.umd.edu/), USA.
-    * Tutoring of an undergraduate student in the **Directed Reading Program** on Dynamical Systems.
+    * Tutoring of an undergraduate student in the **Directed Reading Program**. Subject: Dynamical Systems and Chaos Theory.
 * 2023-2024: Université Lyon 1, Lyon, France.
   * Undergraduate teaching in **Mathematics**, *64h*.
 * 2020-2021: Lycée La Martinière Monplaisir, Lyon, France.
