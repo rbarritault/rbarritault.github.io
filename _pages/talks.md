@@ -7,15 +7,18 @@ author_profile: true
 
 
 
+* **Dissociated permutation groups**
+    * *Groups and dynamics* workshop in Aussois, June 2025.
+
 * **Irreducible representations of infinite-dimensional Burger-Mozes groups**,
-   * A three-sessions lecture for the work-group "Groups and Sets" at the [University of Maryland at College Park](https://www-math.umd.edu/), February 2025.
+   * A three-sessions lecture for the work-group *Groups and Sets* at the [University of Maryland at College Park](https://www-math.umd.edu/), February 2025.
 
 * **Dissociation of unitary representations and the Urysohn spaces**,
-   * A three-sessions lecture for the work-group "Groups and Sets" at the [University of Maryland at College Park](https://www-math.umd.edu/), October 2024.
+   * A three-sessions lecture for the work-group *Groups and Sets* at the [University of Maryland at College Park](https://www-math.umd.edu/), October 2024.
 
 * **Tannaka-Krein duality for Roelcke-precompact non-Archimedean polish groups**,
    * Logic seminar at the [University of Maryland at College Park](https://www-math.umd.edu/), September 2024,
-   * Séminaire Groupes et Actions at [Institut de Mathématique d’Orsay](https://www.imo.universite-paris-saclay.fr/fr/), Université Paris Saclay, July 2024,
+   * Séminaire *Groupes et Actions* at [Institut de Mathématique d’Orsay](https://www.imo.universite-paris-saclay.fr/fr/), Université Paris Saclay, July 2024,
    * Operator algebra seminar at [IMJ-PRG](https://www.imj-prg.fr/), Université Paris Cité, June 2024,
    * Logic seminar at [ICJ](https://math.univ-lyon1.fr), Université Claude Bernard Lyon 1, May 2024.
 
