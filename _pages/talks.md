@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks given or scheduled at seminars and work-groups"
+title: "Talks given at seminars, work-groups and conferences"
 permalink: /talks/
 author_profile: true
 ---
