@@ -20,7 +20,7 @@ redirect_from:
 
 ### Research Internships and visits
 
-* Sep. 2024 - June 2025: **Second year of doctoral studies**,
+* Sep. 2024 - June 2025: **Second year of doctoral studies**.
   * University of Maryland, College Park, USA
   * Visiting [Christian Rosendal](https://sites.google.com/view/christian-rosendal)
 
@@ -50,7 +50,7 @@ redirect_from:
 * 2024-2025: [University of Maryland at College Park](https://www-math.umd.edu/), USA.
     * Tutoring of an undergraduate student in the **Directed Reading Program**.
       * Spring Semester: The Krein-Milman Theorem.
-      * Fall Semester: Introduction to dynamical dystems and chaos theory.
+      * Fall Semester: Introduction to dynamical systems and chaos theory.
 * 2023-2024: Université Lyon 1, Lyon, France.
   * Undergraduate teaching in **Mathematics**, *64h*.
 * 2020-2021: Lycée La Martinière Monplaisir, Lyon, France.
