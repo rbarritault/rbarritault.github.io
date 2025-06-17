@@ -11,4 +11,4 @@ PhD student in __Mathematics__ under the supervision of [Todor Tsankov](https://
 
 ## Field of Research
 
-My interests lie at the intersection of topological group theory, geometry and model theory. At the moment, I am looking at the representation theory of permutation groups (e.g. Aut \\( ( \mathbb{Q} ,<) \\) or acting on regular trees). 
+My interests lie at the intersection of topological group theory, geometry and model theory. At the moment, I am studying the representation theory of permutation groups (e.g. Aut \\( ( \mathbb{Q} ,<) \\) or acting on regular trees). 
