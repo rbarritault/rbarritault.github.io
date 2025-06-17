@@ -47,10 +47,10 @@ redirect_from:
 
   
 ### Teaching
-* Spring Semester 2024: [University of Maryland at College Park](https://www-math.umd.edu/), USA.
-    * Tutoring of an undergraduate student in the **Directed Reading Program**. Subject: The Krein-Milman Theorem.
-* Fall Semester 2024: [University of Maryland at College Park](https://www-math.umd.edu/), USA.
-    * Tutoring of an undergraduate student in the **Directed Reading Program**. Subject: Dynamical Systems and Chaos Theory.
+* 2024-2025: [University of Maryland at College Park](https://www-math.umd.edu/), USA.
+    * Tutoring of an undergraduate student in the **Directed Reading Program**.
+      * Spring Semester: The Krein-Milman Theorem.
+      * Fall Semester: Introduction to dynamical dystems and chaos theory.
 * 2023-2024: Université Lyon 1, Lyon, France.
   * Undergraduate teaching in **Mathematics**, *64h*.
 * 2020-2021: Lycée La Martinière Monplaisir, Lyon, France.
