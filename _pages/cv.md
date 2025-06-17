@@ -20,7 +20,7 @@ redirect_from:
 
 ### Research Internships and visits
 
-* Sep. 2024 - June 2025: **Second year of doctoral studies**.
+* 2024-2025: **Second year of doctoral studies**.
   * University of Maryland, College Park, USA
   * Visiting [Christian Rosendal](https://sites.google.com/view/christian-rosendal)
 
