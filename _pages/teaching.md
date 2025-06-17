@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-## Sep. - Déc. 2024, University of Maryland at College Park, USA.
+## 2024 - 2025, University of Maryland at College Park, USA.
   * Tuteur de deux étudiant de troisième année, équivalent Licence 3, dans le cadre du [Directed Reading Program](http://drp.math.umd.edu/).
     * Semestre d'automne: Introduction aux systèmes dynamiques et à la théorie du chaos.
     * Semestre de printemps: Le Théorème de Krein-Milman.
