@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Enseignements"
 permalink: /teaching/
 author_profile: true
 ---
 
+
+*A summary in english appears in my [Short CV](https://rbarritault.github.io/cv/).*
 
 
 ## 2024 - 2025, University of Maryland at College Park, USA.
