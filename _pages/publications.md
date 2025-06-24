@@ -3,6 +3,8 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /papers
 ---
 
 * **On dissociated infinite permutation groups**, with [Colin Jahel](https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/colin-jahel) and [Matthieu Joseph](https://www.imo.universite-paris-saclay.fr/~matthieu.joseph/index.html), 2025. *Preprint* <br/>
