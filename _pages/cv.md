@@ -37,7 +37,7 @@ redirect_from:
   * University of Maryland, USA
   * Supervisor:  [Christian Rosendal](https://sites.google.com/view/christian-rosendal)
 
-* Summer 2021: **Continuous Logic and Model Theory**, second year of M.S.
+* Summer 2021: **Continuous Logic and Model Theory**, first year of M.S.
   * Institut Camille Jordan, Université Claude Bernard Lyon 1
   * Supervisor: [Todor Tsankov](http://www.math.jussieu.fr/~todor/)
 
