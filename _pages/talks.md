@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * **Dissociation phenomenas in higher genrality and Burger-Mozes universal groups on the \\(\aleph_0\\)-regular tree**,
-   * A two-sessions talk for the *Théorie ergodique et des représentations isométriques des groupes polonais" meeting in Marcoux, France, July 2025. 
+   * A two-sessions talk for the *Théorie ergodique et des représentations isométriques des groupes polonais* meeting in Marcoux, France, July 2025. 
 
 * **Dissociated permutation groups**,
     * *Groups and dynamics* [workshop](https://math.univ-lyon1.fr/~tsankov/2025-Aussois/) in Aussois, France, June 2025. Based on joint work with [Colin Jahel](https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/colin-jahel) and [Matthieu Joseph](https://www.imo.universite-paris-saclay.fr/~matthieu.joseph/).
