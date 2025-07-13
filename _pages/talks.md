@@ -9,7 +9,7 @@ author_profile: true
    * A two-sessions talk for the *Théorie ergodique et des représentations isométriques des groupes polonais* meeting in Marcoux, France, July 2025. 
 
 * **Dissociated permutation groups**,
-    * *Groups and dynamics* [workshop](https://math.univ-lyon1.fr/~tsankov/2025-Aussois/) in Aussois, France, June 2025. Based on joint work with [Colin Jahel](https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/colin-jahel) and [Matthieu Joseph](https://www.imo.universite-paris-saclay.fr/~matthieu.joseph/).
+    * *Groups and dynamics* [international conference](https://math.univ-lyon1.fr/~tsankov/2025-Aussois/) in Aussois, France, June 2025. Based on joint work with [Colin Jahel](https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/colin-jahel) and [Matthieu Joseph](https://www.imo.universite-paris-saclay.fr/~matthieu.joseph/).
  
 * **Spaces with measured walls, the Haagerup property and Property (T)**
   * *Groups and Sets* weekly work-group at the [University of Maryland at College Park](https://www-math.umd.edu/), USA, February 2025. Based on a [paper](https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/abs/spaces-with-measured-walls-the-haagerup-property-and-property-t/2010AE920181FAEAE87341476DE99C9B) with the same title by Chérix, Martin and Valette.
