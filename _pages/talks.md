@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-* **Dissociation phenomena in higher genrality and Burger-Mozes universal groups on the \\(\aleph_0\\)-regular tree**,
+* **Dissociation phenomena in higher generality and Burger-Mozes universal groups on the \\(\aleph_0\\)-regular tree**,
    * A two-sessions talk for the *Théorie ergodique et des représentations isométriques des groupes polonais* meeting in Marcoux, France, July 2025. 
 
 * **Dissociated permutation groups**,
