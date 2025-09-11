@@ -7,7 +7,7 @@ redirect_from:
   - /papers
 ---
 
-* **On dissociated infinite permutation groups**, with [Colin Jahel](https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/colin-jahel) and [Matthieu Joseph](https://www.imo.universite-paris-saclay.fr/~matthieu.joseph/index.html), 2025. *Preprint* <br/>
+* **On dissociated infinite permutation groups**, with [Colin Jahel](https://sites.aub.edu.lb/colinjahel) and [Matthieu Joseph](https://www.imo.universite-paris-saclay.fr/~matthieu.joseph/index.html), 2025. *Preprint* <br/>
 <small>[ <a href="#/" onclick="visib('dissociation2025')">Abstract</a> | <a href="https://arxiv.org/pdf/2504.14057">ArXiv</a> | <a href="https://hal.science/hal-05047341v1">HAL</a>] </small>
 
 <div id="dissociation2025" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -15,7 +15,7 @@ The goal of this paper is threefold. First, we describe the notion of dissociati
 </small><br><br/></div>
 
 
-* **Unitary Representations of the Isometry Groups of Urysohn Spaces**, with [Colin Jahel](https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/colin-jahel) and [Matthieu Joseph](https://www.imo.universite-paris-saclay.fr/~matthieu.joseph/index.html), 2024. *Submitted* <br/>
+* **Unitary Representations of the Isometry Groups of Urysohn Spaces**, with [Colin Jahel](https://sites.aub.edu.lb/colinjahel) and [Matthieu Joseph](https://www.imo.universite-paris-saclay.fr/~matthieu.joseph/index.html), 2024. *Submitted* <br/>
 <small>[ <a href="#/" onclick="visib('urysohn2024')">Abstract</a> | <a href="https://arxiv.org/pdf/2410.01725">ArXiv</a> | <a href="https://hal.science/hal-04744565v1">HAL</a>] </small>
 
 <div id="urysohn2024" style="display: none; text-align: justify; line-height: 1.2" ><small>
