@@ -5,10 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-* **A New Approach to the Representation Theory of Aut(T∞)**,
+* **A new approach to the representation theory of Aut(T\\(_\infty\)))**,
    * *Groupes et Theorie des Modèles*, IMJ-PRG, Paris, France, Novembre 2025.
 
-* **Unitary Representations of Permutation Groups**,
+* **Unitary representations of permutation groups**,
    * A two-sessions talk for the *Geometric Group Theory and its Coarse Neighbourhood* work group at the IMJ-PRG, Paris, France, October 2025. 
 
 * **Dissociation phenomena in higher generality and Burger-Mozes universal groups on the \\(\aleph_0\\)-regular tree**,
