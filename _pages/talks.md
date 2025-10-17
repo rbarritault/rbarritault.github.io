@@ -5,8 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 
+* **A New Approach to the Representation Theory of Aut(T∞)**,
+   * *Groupes et Theorie des Modèles*, IMJ-PRG, Paris, France, Novembre 2025.
+
+* **Unitary Representations of Permutation Groups**,
+   * A two-sessions talk for the *Geometric Group Theory and its Coarse Neighbourhood* work group at the IMJ-PRG, Paris, France, October 2025. 
+
 * **Dissociation phenomena in higher generality and Burger-Mozes universal groups on the \\(\aleph_0\\)-regular tree**,
-   * A two-sessions talk for the *Théorie ergodique et des représentations isométriques des groupes polonais* meeting in Marcoux, France, July 2025. 
+   * A two-sessions talk for the *Théorie ergodique et des représentations isométriques des groupes polonais* international meeting in Marcoux, France, July 2025. 
 
 * **Dissociated permutation groups**,
     * *Groups and dynamics* [international conference](https://math.univ-lyon1.fr/~tsankov/2025-Aussois/) in Aussois, France, June 2025. Based on joint work with [Colin Jahel](https://sites.aub.edu.lb/colinjahel) and [Matthieu Joseph](https://www.imo.universite-paris-saclay.fr/~matthieu.joseph/).
