@@ -8,9 +8,13 @@ author_profile: true
 
 *A summary in english appears in my [Short CV](https://rbarritault.github.io/cv/).*
 
+## 2023 - 2024, Université Claude Bernard Lyon 1, Lyon.
+
+  * TD **Analyse 1**, niveau L1 [[MAT1055L]](https://offre-de-formations.univ-lyon1.fr/ue-24751/analyse-1-pour-mathematiciens.html).
+
 
 ## 2024 - 2025, University of Maryland at College Park, USA.
-  * Tuteur de deux étudiant de troisième année, équivalent Licence 3, dans le cadre du [Directed Reading Program](http://drp.math.umd.edu/).
+  * Tuteur de deux étudiants de troisième année, équivalent Licence 3, dans le cadre du [Directed Reading Program](http://drp.math.umd.edu/).
     * Semestre d'automne: Introduction aux systèmes dynamiques et à la théorie du chaos.
     * Semestre de printemps: Le Théorème de Krein-Milman.
     
