@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-* **A new approach to the representation theory of Aut(T\\(_\infty\)))**,
+* **A new approach to the representation theory of Aut(T\\( _\infty\)) )**,
    * *Groupes et Theorie des Modèles*, IMJ-PRG, Paris, France, Novembre 2025.
 
 * **Unitary representations of permutation groups**,
