@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Short CV"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+My full CV can be found [here](https://rbarritault.github.io/files/Barritault_R_CV.pdf).
+
+## Short CV
 
 ### Education
 
