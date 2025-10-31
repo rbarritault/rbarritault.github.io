@@ -11,7 +11,7 @@ redirect_from:
 
   
 <div id="burger2025" style="display: none; text-align: justify; line-height: 1.2" ><small>
-I classify the irreducible unitary representations of universal Burger-Mozes when given an oligomorphic 2-transitive that has no imaginary over singletons. **Work in progress**
+I classify the irreducible unitary representations of universal Burger-Mozes when the prescribed local action is oligomorphic, 2-transitive, and has no imaginary over singletons. **Work in progress**
 </small><br><br/></div>
 
 
