@@ -7,7 +7,7 @@ redirect_from:
   - /papers
 ---
 * **Unitary representations of universal Burger-Mozes groups in infinite arity**, *in preparation.*<br/>
-<small>[ <a href="#/" onclick="visib('burger2025')">Abstract</a> | <a href="[https://arxiv.org/pdf/2504.14057](https://rbarritault.github.io/files/Burger-Mozes.pdf)">PDF</a>] </small>
+<small>[ <a href="#/" onclick="visib('burger2025')">Abstract</a> | <a href="https://rbarritault.github.io/files/Burger-Mozes.pdf">PDF</a>] </small>
 
   
 <div id="burger2025" style="display: none; text-align: justify; line-height: 1.2" ><small>
