@@ -6,7 +6,16 @@ author_profile: true
 redirect_from:
   - /papers
 ---
+* **Unitary representations of universal Burger-Mozes groups in infinite arity**, *in preparation.*<br/>
+<small>[ <a href="#/" onclick="visib('burger2025')">Abstract</a> | <a href="[https://arxiv.org/pdf/2504.14057](https://rbarritault.github.io/files/Burger-Mozes.pdf)">PDF</a>] </small>
 
+  
+<div id="burger2025" style="display: none; text-align: justify; line-height: 1.2" ><small>
+I classify the irreducible unitary representations of universal Burger-Mozes when given an oligomorphic 2-transitive that has no imaginary over singletons. **Work in progress**
+</small><br><br/></div>
+
+
+  
 * **On dissociated infinite permutation groups**, with [Colin Jahel](https://sites.aub.edu.lb/colinjahel) and [Matthieu Joseph](http://webusers.imj-prg.fr/~matthieu.joseph), 2025. *Preprint* <br/>
 <small>[ <a href="#/" onclick="visib('dissociation2025')">Abstract</a> | <a href="https://arxiv.org/pdf/2504.14057">ArXiv</a> | <a href="https://hal.science/hal-05047341v1">HAL</a>] </small>
 
