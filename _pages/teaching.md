@@ -8,7 +8,7 @@ author_profile: true
 
 *A summary in english appears in my [Short CV](https://rbarritault.github.io/cv/).*
 
-## 2023 - 2024, Université Claude Bernard Lyon 1, Lyon.
+## 2025 - 2026, Université Claude Bernard Lyon 1, Lyon.
 
   * TD **Analyse 1**, niveau L1 [[MAT1055L]](https://offre-de-formations.univ-lyon1.fr/ue-24751/analyse-1-pour-mathematiciens.html).
 
