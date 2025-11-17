@@ -51,8 +51,10 @@ My full CV can be found [here](https://rbarritault.github.io/files/Barritault_R_
 
   
 ### Teaching
+* 2025-2026: Université Lyon 1, Lyon, France.
+  * Undergraduate teaching in **Mathematics**, *64h*.
 * 2024-2025: [University of Maryland at College Park](https://www-math.umd.edu/), USA.
-    * Tutoring of an undergraduate student in the **Directed Reading Program**.
+    * Tutoring of an undergraduate student in the **Directed Reading Program**, *20h*.
       * Spring Semester: The Krein-Milman Theorem.
       * Fall Semester: Introduction to dynamical systems and chaos theory.
 * 2023-2024: Université Lyon 1, Lyon, France.
