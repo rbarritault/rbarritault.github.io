@@ -32,7 +32,7 @@ We obtain a complete classification of the continuous unitary representations of
 </small><br><br/></div>
 
 
-* **Tannaka-Krein duality for Roelcke-precompact non-archimedean Polish groups**, 2024. *Accepted for publication in Fundamenta Mathematicae* <br/>
+* **Tannaka-Krein duality for Roelcke-precompact non-archimedean Polish groups**, Fundamenta Mathematicae, **271** (2025), no. 2, 97–130. <br/>
 <small>[ <a href="#/" onclick="visib('tannaka2024')">Abstract</a> | <a href="https://rbarritault.github.io/files/Tannaka-Krein.pdf">PDF</a> | <a href="https://hal.science/hal-04525798">HAL</a>] </small>
 
 <div id="tannaka2024" style="display: none; text-align: justify; line-height: 1.2" ><small>
