@@ -1,12 +1,15 @@
 ---
 layout: archive
-title: "Talks given at seminars, work-groups and conferences"
+title: "Talks at seminars, work-groups and conferences"
 permalink: /talks/
 author_profile: true
 ---
 
+* **Irreducible representations of universal Burger-Mozes groups in infinite arity**,
+    * Group theory seminar, UCLouvain, Louvain, Belgique, Mai 2026.
+
 * **A new approach to the representation theory of Aut(T\\(_\infty\\))**,
-   * *Groupes et Theorie des Modèles*, IMJ-PRG, Paris, France, Novembre 2025.
+   * *Groupes et Theorie des Modèles* seminar, IMJ-PRG, Paris, France, Novembre 2025.
 
 * **Unitary representations of permutation groups**,
    * A two-sessions talk for the *Geometric Group Theory and its Coarse Neighbourhood* work group at the IMJ-PRG, Paris, France, October 2025. 
@@ -18,14 +21,14 @@ author_profile: true
     * *Groups and dynamics* [international conference](https://math.univ-lyon1.fr/~tsankov/2025-Aussois/) in Aussois, France, June 2025. Based on joint work with [Colin Jahel](https://sites.aub.edu.lb/colinjahel) and [Matthieu Joseph](http://webusers.imj-prg.fr/~matthieu.joseph).
  
 * **Spaces with measured walls, the Haagerup property and Property (T)**
-  * *Groups and Sets* weekly work-group at the [University of Maryland at College Park](https://www-math.umd.edu/), USA, February 2025. Based on a [paper](https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/abs/spaces-with-measured-walls-the-haagerup-property-and-property-t/2010AE920181FAEAE87341476DE99C9B) with the same title by Chérix, Martin and Valette.
+  * *Groups and Sets* work-group at the [University of Maryland at College Park](https://www-math.umd.edu/), USA, February 2025. Based on a [paper](https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/abs/spaces-with-measured-walls-the-haagerup-property-and-property-t/2010AE920181FAEAE87341476DE99C9B) with the same title by Chérix, Martin and Valette.
 
 
 * **Irreducible representations of infinite-dimensional Burger-Mozes groups**,
-   * A three-sessions lecture for the weekly work-group *Groups and Sets* at the [University of Maryland at College Park](https://www-math.umd.edu/), USA, February 2025.
+   * A three-sessions lecture for the work-group *Groups and Sets* at the [University of Maryland at College Park](https://www-math.umd.edu/), USA, February 2025.
 
 * **Dissociation of unitary representations and the Urysohn spaces**,
-   * A three-sessions lecture for the weekly work-group *Groups and Sets* at the [University of Maryland at College Park](https://www-math.umd.edu/), USA, October 2024. Based on joint work with [Colin Jahel](https://sites.aub.edu.lb/colinjahel) and [Matthieu Joseph](http://webusers.imj-prg.fr/~matthieu.joseph).
+   * A three-sessions lecture for the work-group *Groups and Sets* at the [University of Maryland at College Park](https://www-math.umd.edu/), USA, October 2024. Based on joint work with [Colin Jahel](https://sites.aub.edu.lb/colinjahel) and [Matthieu Joseph](http://webusers.imj-prg.fr/~matthieu.joseph).
 
 * **Tannaka-Krein duality for Roelcke-precompact non-Archimedean polish groups**,
    * Logic seminar at the [University of Maryland at College Park](https://www-math.umd.edu/), USA September 2024,
