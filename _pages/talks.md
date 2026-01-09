@@ -35,6 +35,7 @@ author_profile: true
    * *Groupes et Actions* seminar at [Institut de Mathématique d’Orsay](https://www.imo.universite-paris-saclay.fr/fr/), Université Paris Saclay, France, July 2024,
    * Operator algebra seminar at [IMJ-PRG](https://www.imj-prg.fr/), Université Paris Cité, France, June 2024,
    * Logic seminar at [ICJ](https://math.univ-lyon1.fr), Université Claude Bernard Lyon 1, France, May 2024.
+   * Journée de l'équipe Algèbre Géométrie et Logique, Université Claude Bernard Lyon 1, France, Janvier 2026.
 
 
 * **Le théorème de Glimm**
