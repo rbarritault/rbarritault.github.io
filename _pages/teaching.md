@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-*A summary in english appears in my [Short CV](https://rbarritault.github.io/cv/).*
+*A summary in english appears in my [Short CV](https://rbarritault.github.io/cv/). See also my [Full CV](https://rbarritault.github.io/files/Barritault_R_CV.pdf)*
 
 ## 2025 - 2026, Université Claude Bernard Lyon 1, Lyon.
 
