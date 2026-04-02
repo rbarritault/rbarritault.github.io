@@ -8,4 +8,4 @@ redirect_from:
 
 ## Congratulations! You found an Easter egg. 
 
-I would like to thank Jennie Andersen for her contribution to this Web site.
+I would like to thank Jennie Andersen for her contribution to this website.
