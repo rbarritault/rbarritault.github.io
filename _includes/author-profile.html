@@ -56,16 +56,13 @@
       {% endif %}
       
       {% if author.HAL %}
-            <li>
-              <a href="{{ author.HAL }}">
-                <img src="{{ '/images/HAL9000.svg' | relative_url }}"
-                     alt=""
-                     class="hal-icon"
-                     aria-hidden="true">
-                HAL
-              </a>
-            </li>
-      {% endif %}
+  <li><a href="{{ author.HAL }}">
+    <img src="{{ '/images/HAL9000.svg' | relative_url }}"
+         alt="HAL"
+         style="width: 1em; height: 1em; vertical-align: -0.125em; margin-right: 0.25em;">
+    HAL
+  </a></li>
+{% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
