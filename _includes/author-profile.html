@@ -34,7 +34,7 @@
       {% if author.email %}
         <li>
           <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>
-          {{ author.email | replace: '@', ' [at] ' | replace: '.', ' [dot] ' }}
+          {{ author.email }}
         </li>
       {% endif %}
 
