@@ -14,3 +14,14 @@ I completed my PhD in Lyon under the supervision of [Todor Tsankov](https://math
 ## Field of Research
 
 I study the unitary representations of infinite permutation groups arising from model theory with an eye towards large scale geometry. 
+
+
+🚨 **EMAIL UPDATE** 🚨
+
+My email address has changed!
+
+📧 **New address:** `barritault [dot] math [at] proton [dot] me`
+
+
+
+
