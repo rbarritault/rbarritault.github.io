@@ -20,7 +20,7 @@ I study the unitary representations of infinite permutation groups arising from 
 
 My email address has changed!
 
-📧 **New address:** `barritault [dot] math [at] proton [dot] me`
+📧 **New address:** `barritault.math [at] proton [dot] me`
 
 
 
