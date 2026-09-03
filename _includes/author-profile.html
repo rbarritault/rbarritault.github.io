@@ -54,8 +54,17 @@
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
       {% endif %}
+      
       {% if author.HAL %}
-        <li><a href="{{ author.HAL }}">HAL</a></li>
+            <li>
+              <a href="{{ author.HAL }}">
+                <img src="{{ '/assets/images/HAL9000.svg' | relative_url }}"
+                     alt=""
+                     class="hal-icon"
+                     aria-hidden="true">
+                HAL
+              </a>
+            </li>
       {% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
