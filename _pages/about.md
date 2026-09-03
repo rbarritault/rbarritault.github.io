@@ -16,7 +16,7 @@ I completed my PhD in Lyon under the supervision of [Todor Tsankov](https://math
 I study the unitary representations of infinite permutation groups arising from model theory with an eye towards large scale geometry. 
 
 
-🚨 **EMAIL UPDATE** 🚨
+## 🚨 EMAIL UPDATE 🚨
 
 My email address has changed!
 
