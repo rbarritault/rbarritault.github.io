@@ -15,7 +15,9 @@ My full CV can be found [here](https://rbarritault.github.io/files/Barritault_R_
 
 ### Education
 
-* Ph.D student in Mathematics, Université Claude Bernard Lyon 1, 2023 - present.
+* Postdoc at [IMJ-PRG](https://www.imj-prg.fr/) (Université Paris Cité), 2026 - present.
+
+* Ph.D student in Mathematics, Université Claude Bernard Lyon 1, 2023 - 2026.
   * Supervised by [Todor Tsankov](http://www.math.jussieu.fr/~todor/) and [Christian Rosendal](https://sites.google.com/view/christian-rosendal).
   * Title: Dynamics and Geometry of locally Roelcke-precompact Polish groups.
   * 9 months stay with Christian Rosendal at the University of Maryland, USA, September 2024 - June 2025.
